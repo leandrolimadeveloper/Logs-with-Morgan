@@ -1,0 +1,13 @@
+
+Request: GET / at Fri Aug 19 2022 19:48:14 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54
+Response Body:
+Ok
+Response: 200 10.701 ms 
+
+Request: GET /favicon.ico at Fri Aug 19 2022 19:48:14 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54
+Response: 404 4.099 ms 
+
+Request: GET / at Fri Aug 19 2022 19:48:29 GMT-0300, IP: ::1, User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54
+Response Body:
+Ok
+Response: 304 2.527 ms 

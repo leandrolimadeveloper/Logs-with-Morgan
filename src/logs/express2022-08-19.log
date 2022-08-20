@@ -1,0 +1,13 @@
+
+Request: POST /testpost at Fri Aug 19 2022 20:49:39 GMT-0300, IP: ::ffff:127.0.0.1, User Agent: insomnia/2022.5.1
+Request Body:
+{
+	"user": "leandro",
+	"email": "leandro@leandro.com"
+}
+Response: 500 2.963 ms 
+
+Request: GET / at Fri Aug 19 2022 20:51:21 GMT-0300, IP: ::ffff:127.0.0.1, User Agent: insomnia/2022.5.1
+Response Body:
+Ok
+Response: 200 2.487 ms
